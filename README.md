@@ -12,8 +12,9 @@ Must-read papers for unsupervised structured prediction
 
 ## Sequence Labeling
 
+* Taylor Berg-Kirkpatrick, Alexandre Bouchard-Côté, John DeNero and Dan Klein. 2010. [Painless Unsupervised Learning with Features](https://www.aclweb.org/anthology/N10-1083/). In *Proceedings of NAACL*.
 
-# Related
+## Related
 
 * Xinlei Chen and Haoqi Fan and Ross Girshick and Kaiming He. 2020. [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
 * Chen Ting and Kornblith Simon and Norouzi Mohammad and Hinton Geoffrey. 2020. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
