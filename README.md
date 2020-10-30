@@ -12,3 +12,9 @@ Must-read papers for unsupervised structured prediction
 
 ## Sequence Labeling
 
+
+# Unsupervised Computer Vision
+
+* Xinlei Chen and Haoqi Fan and Ross Girshick and Kaiming He. 2020. [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
+* Chen Ting and Kornblith Simon and Norouzi Mohammad and Hinton Geoffrey. 2020. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+* Chen Ting and Kornblith Simon and Swersky Kevin and Norouzi Mohammad and Hinton Geoffrey. 2020. [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
