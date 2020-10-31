@@ -1,5 +1,6 @@
 # Unsupervised Structured Prediction
-Must-read papers for unsupervised structured prediction
+
+Must-read papers for unsupervised structured prediction.
 
 ## Syntactic Parsing
 
@@ -11,9 +12,9 @@ Must-read papers for unsupervised structured prediction
 * Bowen Li, Jianpeng Cheng, Yang Liu and Frank Keller. 2019. [Dependency grammar induction with a neural variational transition-based parser](https://www.aaai.org/ojs/index.php/AAAI/article/view/4636). In *Proceedings of AAAI*. 
 * Yoon Kim, Alexander Rush, Lei Yu, Adhiguna Kuncoro, Chris Dyer and Gábor Melis. 2019. [Unsupervised Recurrent Neural Network Grammars](https://www.aclweb.org/anthology/N19-1114.pdf). In *Proceedings of NAACL*.
 * Caio Corro and Ivan Titov. 2018. [Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder](https://arxiv.org/abs/1807.09875). In *Proceedings of ICLR*.
+* Yikang Shen, Zhouhan Lin, Chin-wei Huang and Aaron Courville. 2018. [Neural Language Modeling by Jointly Learning Syntax and Lexicon](https://openreview.net/forum?id=rkgOLb-0W).  In *Proceedings of ICLR*.
 * Jiong Cai, Yong Jiang and Kewei Tu. 2017. [CRF autoencoder for unsupervised dependency parsing](https://www.aclweb.org/anthology/D17-1171/). In *Proceedings of EMNLP*.
 * Wenjuan Han, Yong Jiang, and Kewei Tu. 2017. [Dependency grammar induction with neural lexicalization and big training data](https://www.aclweb.org/anthology/D17-1176/). In *Proceedings of EMNLP*.
-* Chris Dyer, Adhiguna Kuncoro, Miguel Ballesteros and Noah A Smith. 2016. [Recurrent Neural Network Grammars](https://www.aclweb.org/anthology/N16-1024/). In *Proceedings of NAACL*.
 * Yong Jiang, Wenjuan Han and Kewei Tu. 2016. [Unsupervised neural dependency parsing](https://www.aclweb.org/anthology/D16-1073/). In *Proceedings of EMNLP*. 
 * Dan Klein and Christopher D. Manning. 2004. [Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency](https://www.aclweb.org/anthology/P04-1061/). In *Proceedings of ACL*.
 
