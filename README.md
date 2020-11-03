@@ -21,9 +21,12 @@ Must-read papers for unsupervised structured prediction.
 ## Sequence Labeling
 
 * Taylor Berg-Kirkpatrick, Alexandre Bouchard-Côté, John DeNero and Dan Klein. 2010. [Painless Unsupervised Learning with Features](https://www.aclweb.org/anthology/N10-1083/). In *Proceedings of NAACL*.
+* Waleed Ammar, Chris Dyer and Noah A. Smith. 2014. [Conditional Random Field Autoencoders for Unsupervised Structured Prediction](http://papers.nips.cc/paper/5344-conditional-random-field-autoencoders-for-unsupervised-structured-prediction.pdf). In *Proceedings of NIPS*.
+* Karl Stratos, Michael Collins and Daniel Hsu. 2016. [Unsupervised Part-Of-Speech Tagging with Anchor Hidden Markov Models](https://www.aclweb.org/anthology/Q16-1018/). In *Proceedings of TACL*.
+
 
 ## Related
-
+* Xiao Zhang, Yong Jiang, Hao Peng, Kewei Tu and Dan Goldwasser. 2017. [Semi-supervised Structured Prediction with Neural CRF Autoencoder](https://www.aclweb.org/anthology/D17-1179/). In *Proceedings of EMNLP*.
 * Xinlei Chen and Haoqi Fan and Ross Girshick and Kaiming He. 2020. [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
 * Chen Ting and Kornblith Simon and Norouzi Mohammad and Hinton Geoffrey. 2020. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 * Chen Ting and Kornblith Simon and Swersky Kevin and Norouzi Mohammad and Hinton Geoffrey. 2020. [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
